@@ -6,7 +6,7 @@
 
 The server is stored in `/server` folder. It is written in Python. The static files which server hosts are stored in `/server/www` folder. It has a `static` folder which has the `404.html` which is server when the server cannot find the requested file in `/server/www` folder.
 
-![image.png](image.png)
+![images/image.png](image.png)
 
 
 # Proxy
@@ -33,7 +33,7 @@ The port number is optional.
 
 The proxy must be invoked using `GET` method. The website must be fetched the way below:
 
-![image.png](image%201.png)
+![images/image.png](image%201.png)
 
 Here [`localhost:2004`](http://localhost:2004) is the address of the proxy followed by the address of the required url `localhost:8080/index.html`. 
 
