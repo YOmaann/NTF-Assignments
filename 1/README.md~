@@ -56,7 +56,7 @@ in the parameters of the main file. One must call the client program as `./clien
 
 Both server side and client side programs have standard `socket` , `bind`, `recv` , `send` , `close` functions which enable socket programming. 
 
-![Image copied from the internet](code-client-server-socket-programming-in-cpp-csharp-java-and-python-1548041834.jpg)
+![Image copied from the internet](images/code-client-server-socket-programming-in-cpp-csharp-java-and-python-1548041834.jpg)
 
 Image copied from the internet
 
@@ -66,11 +66,11 @@ Image copied from the internet
 
 ### Demo 1
 
-![Client Side](image.png)
+![Client Side](images/image.png)
 
 Client Side
 
-![Server Side](image%201.png)
+![Server Side](images/image%201.png)
 
 Server Side
 
@@ -78,10 +78,10 @@ Server Side
 
 When the client number is greater than 100.
 
-![Client Side](image%202.png)
+![Client Side](images/image%202.png)
 
 Client Side
 
-![Server Side](image%203.png)
+![Server Side](images/image%203.png)
 
 Server Side
