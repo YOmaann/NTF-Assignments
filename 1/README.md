@@ -4,8 +4,8 @@
 
 Since I have included many “non-network” code snippets in my program. The literature below includes documentation for easy readability of the code.
 
-## Server-side code
 
+## Server-side code
 
 
 The code related to server is stored in `server.cpp` . To keep listening to clients forever an infinite loop has been inserted. To break the loop and close the socket `signal` command is used. 
@@ -28,8 +28,8 @@ In response to client the server gives back the sum without any standards, that 
 
 Function `rand` is used to generate random numbers at the server side.
 
-## Client-side code
 
+## Client-side code
 
 
 The client side code is in `client.cpp`. I have decide to take in the IP address of the server using terminal arguments. That is the standard 
@@ -40,8 +40,8 @@ int argc, char*argv[]
 
 in the parameters of the main file. One must call the client program as `./client 172.17.17.1` where the IP address is the address of the server.
 
-## Networking code
 
+## Networking code
 
 
 Both server side and client side programs have standard `socket` , `bind`, `recv` , `send` , `close` functions which enable socket programming. 
@@ -49,6 +49,7 @@ Both server side and client side programs have standard `socket` , `bind`, `recv
 ![Image copied from the internet](images/code-client-server-socket-programming-in-cpp-csharp-java-and-python-1548041834.jpg)
 
 Image copied from the internet
+
 
 ## Demo
 
