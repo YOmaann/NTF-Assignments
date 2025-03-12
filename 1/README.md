@@ -1,13 +1,5 @@
 # Assignment 1
 
-**Name : Lucky Mathias Kispotta**
-
-**Roll : MCS202411**
-
-**Batch : MSc CS 1**
-
----
-
 ## Notes
 
 ---
